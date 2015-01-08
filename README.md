@@ -1,0 +1,3 @@
+SyncRes
+=======
+example for android
